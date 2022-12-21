@@ -150,4 +150,9 @@ public class HomeController {
             return "user is not exist";
         }
     }
+
+    @PostMapping("/save_user")
+    public TestEntity saveUser(@RequestBody TestEntity user){
+        return testDao.save(user);
+    }
 }

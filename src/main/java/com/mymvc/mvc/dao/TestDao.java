@@ -34,4 +34,8 @@ public class TestDao {
          testrepo.deleteById(id);
     }
 
+    public TestEntity save(TestEntity user){
+       return testrepo_1.save(user);
+    }
+
 }
