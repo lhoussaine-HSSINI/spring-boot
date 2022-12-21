@@ -1,0 +1,23 @@
+{
+  "firstname": "lhoussaine",
+  "lastname": "hssini",
+  "mobile": "463427637",
+  "gender": "man",
+  "addressDtoList": [
+    {
+      "country": "marroko",
+      "city": "tanger",
+      "street": "12"
+    },
+    {
+      "country": "teness",
+      "city": "marina",
+      "street": "11"
+    },
+    {
+      "country": "dobay",
+      "city": "kantara",
+      "street": "15"
+    }
+  ]
+}
